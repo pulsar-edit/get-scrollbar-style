@@ -1,0 +1,7 @@
+/node_modules
+/build
+npm-debug.log
+.node-version
+.DS_Store
+.cache
+compile_commands.json

@@ -1,0 +1,23 @@
+{
+  "name": "get-scrollbar-style",
+  "version": "1.0.0",
+  "description": "Retrieve the current style of scrollbar in macOS (overlay or legacy)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pulsar-edit/get-scrollbar-style.git"
+  },
+  "keywords": [
+    "macos",
+    "scrollbar"
+  ],
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Pulsar-Edit",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^5.3.0",
+    "node-addon-api": "^8.1.0"
+  }
+}
