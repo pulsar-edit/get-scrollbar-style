@@ -5,3 +5,4 @@ npm-debug.log
 .DS_Store
 .cache
 compile_commands.json
+.tool-versions
